@@ -1,16 +1,42 @@
-### Hi there 👋
+<div align="center">
+<img width="100%" height="350px" src="https://img.freepik.com/free-photo/landscape-shot-val-d-orcia-tuscany-italy-with-cloudy-sunny-blue-sky_181624-11133.jpg?w=1380&t=st=1659559690~exp=1659560290~hmac=29b8627111283a4863315b5e6b5477aebf86e62df6635a8ffc57cf0a82d7ac7a" alt="cover"/>
+</div>
 
-<!--
-**icaldana-daitan/icaldana-daitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hello fellow < Developers />! <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width =30px height='30px'> </h1>
+<p align='center'>
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=icaldana-daitan.icaldana-daitan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<div size='20px'> I am Ismael Caldana :) </div>
+<div size='20px'>Thank you for taking the time to view my GitHub profile! </div>
+<br>
+<h2> About Me </h2>
+
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+
+
+- 🔭 I’m currently working on Micro front-end applications using Typescript, Webpack module federation with AWS Lambdas on Python for BE
+
+- 🌱 I’m currently learning Leadership techniques and solidifying my coding skills 
+
+- 💬 Talk to me about Anything you think I could assist with ;) 
+
+<h2> Main skills </h2>
+<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> &nbsp
+<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp
+<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=typescript&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a> &nbsp
+<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=aws&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a> &nbsp
+<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> &nbsp
+<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=cypress&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'> </a> &nbsp
+
+<br>
+<h2> Find me on </h2>
+<a href = 'https://www.linkedin.com/in/ismael-caldana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  &nbsp
+<a href = 'https://www.github.com/icaldana-daitan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<br>
+<h2> My GitHub Stats </h2>
+
+![Metrics](https://metrics.lecoq.io/icaldana-daitan?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
