@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="350px" src="https://img.freepik.com/free-photo/landscape-shot-val-d-orcia-tuscany-italy-with-cloudy-sunny-blue-sky_181624-11133.jpg?w=1380&t=st=1659559690~exp=1659560290~hmac=29b8627111283a4863315b5e6b5477aebf86e62df6635a8ffc57cf0a82d7ac7a" alt="cover"/>
+<img width="100%"  src="https://img.freepik.com/free-vector/watercolor-autumn-landscape_52683-76386.jpg?w=900&t=st=1659616739~exp=1659617339~hmac=6c678ecb67cfd8c6d32e9dc3278016e693856017386113a8fadb8ad8b4574f04" alt="cover" style="width:100%; height:320px; background-position:center; border-radius:2%"/>
 </div>
 
 <h1> Hello fellow < Developers />! <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width =30px height='30px'> </h1>
@@ -12,8 +12,6 @@
 <div size='20px'>Thank you for taking the time to view my GitHub profile! </div>
 <br>
 <h2> About Me </h2>
-
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
 - 🔭 I’m currently working on Micro front-end applications using Typescript, Webpack module federation with AWS Lambdas on Python for BE
