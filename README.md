@@ -1,9 +1,3 @@
-<div align="left">
-<img src="https://img.freepik.com/free-vector/watercolor-autumn-landscape_52683-76386.jpg?w=900&t=st=1659616739~exp=1659617339~hmac=6c678ecb67cfd8c6d32e9dc3278016e693856017386113a8fadb8ad8b4574f04" alt="cover" style="height:350px;
-width:80%;background-position:center;
-border-radius:2%"/>
-</div>
-
 <h1> Hello fellow < Developers />! <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width =30px height='30px'> </h1>
 <p align='center'>
 
