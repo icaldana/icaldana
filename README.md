@@ -1,7 +1,7 @@
 <h1> Hello fellow < Developers />! <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width =30px height='30px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=icaldana-daitan.icaldana-daitan)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=icaldana.icaldana)
 
 </p>
 <div size='20px'> I am Ismael Caldana :) </div>
@@ -32,5 +32,5 @@
 <br>
 <h2> My GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/icaldana-daitan?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/icaldana?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
