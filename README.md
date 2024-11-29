@@ -1,7 +1,7 @@
 <h1> Hello fellow < Developers />! <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width =30px height='30px'> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=icaldana.icaldana)
+<!-- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=icaldana.icaldana) -->
 
 </p>
 <div size='20px'> I am Ismael Caldana :) </div>
@@ -27,10 +27,10 @@
 <br>
 <h2> Find me on </h2>
 <a href = 'https://www.linkedin.com/in/ismael-caldana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  &nbsp
-<a href = 'https://www.github.com/icaldana-daitan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/icaldana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<br>
+<!-- <br>
 <h2> My GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/icaldana?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
+#![Metrics](https://metrics.lecoq.io/icaldana?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+ -->
