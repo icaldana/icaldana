@@ -1,36 +1,71 @@
-<h1> Hello fellow < Developers />! <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width =30px height='30px'> </h1>
-<p align='center'>
-<!-- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=icaldana.icaldana) -->
+# 👋 Hi, I'm Ismael Caldana
 
-</p>
-<div size='20px'> I am Ismael Caldana :) </div>
-<div size='20px'>Thank you for taking the time to view my GitHub profile! </div>
-<br>
-<h2> About Me </h2>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismael--caldana-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-caldana)
+[![Email](https://img.shields.io/badge/Email-ismaelcaldana%40outlook.com-red?style=flat-square&logo=outlook&logoColor=white)](mailto:ismaelcaldana@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-icaldana-black?style=flat-square&logo=github&logoColor=white)](https://www.github.com/icaldana)
 
+</div>
 
-- 🔭 I’m currently working on Micro front-end applications using Typescript, Webpack module federation with AWS Lambdas on Python for BE
+## 🚀 About Me
 
-- 🌱 I’m currently learning Leadership techniques and solidifying my coding skills 
+**Senior Software Engineer at Mercado Livre** with 8+ years of experience developing robust solutions within multicultural and international teams. Graduated in Information Systems from UNICAMP, I specialize in turning challenges into learning opportunities while consistently valuing diverse perspectives to create solid and innovative projects.
 
-- 💬 Talk to me about Anything you think I could assist with ;) 
+Currently leading technical initiatives that impact **millions of users** across Latin America, with deep involvement in payment systems, security compliance, and digital accessibility advocacy. Beyond code, I'm also a published author of poetic prose with a second poetry book in progress.
 
-<h2> Main skills </h2>
-<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> &nbsp
-<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp
-<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=typescript&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a> &nbsp
-<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=aws&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a> &nbsp
-<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> &nbsp
-<a href= https://github.com/icaldana-daitan?tab=repositories&q=&type=&language=cypress&sort= > <img width ='28px' height='28px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'> </a> &nbsp
+- 🏢 **Currently:** Senior Software Engineer at **Mercado Livre Brazil** (Mercado Pago)
+- 🎯 **Impact:** Leading cross-projects affecting millions of users across Latin America
+- 🔒 **Security:** PCI DSS compliance participation with audit experience
+- 🤝 **Leadership:** AI evangelism, technical interviews, and team mentorship
+- ♿ **Advocacy:** Digital accessibility champion with published articles on inclusive payment experiences
+- 🔬 **Research:** Published scientific work and AI knowledge propagation initiatives
+- 📚 **Author:** Published poetic prose, contributing to tech blogs, working on poetry collection
+- 💬 **Let's talk about:** Payment systems, AI in software development, accessibility, multicultural leadership
 
-<br>
-<h2> Find me on </h2>
-<a href = 'https://www.linkedin.com/in/ismael-caldana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  &nbsp
-<a href = 'https://www.github.com/icaldana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+## 🛠️ Technical Skills
 
-<!-- <br>
-<h2> My GitHub Stats </h2>
+### Frontend Development
 
-#![Metrics](https://metrics.lecoq.io/icaldana?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
- -->
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### Backend & Cloud
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FF6F61?style=for-the-badge&logo=serverless&logoColor=white)
+
+### Testing & Quality Assurance
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-8A4182?style=for-the-badge&logo=vitest&logoColor=white)
+![Enzyme](https://img.shields.io/badge/Enzyme-F5F5F5?style=for-the-badge&logo=enzyme&logoColor=black)
+
+### Research & AI
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logo=brain&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)
+![Research](https://img.shields.io/badge/Scientific_Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<div align="left">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaldana&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🏆 Key Expertise
+
+- **Technical Leadership:** Leading multicultural teams and cross-projects with millions of users impact
+- **Payment Systems:** PCI DSS compliance, checkout experiences, and financial product development
+- **Software Architecture:** Design and implementation of scalable systems
+- **Artificial Intelligence:** Research background, practical application, and AI evangelism
+- **Digital Accessibility:** Advocate and contributor to inclusive payment experiences
+- **Mentorship & Growth:** Technical interviews, team mentoring, and knowledge sharing
