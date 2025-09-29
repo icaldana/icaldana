@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ismael Caldana
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismael--caldana-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-caldana)
 [![Email](https://img.shields.io/badge/Email-ismaelcaldana%40outlook.com-red?style=flat-square&logo=outlook&logoColor=white)](mailto:ismaelcaldana@outlook.com)
